@@ -10,9 +10,9 @@ Setup
 
 Grab the git repository from github and run setup.py:
 
-        $ git clone git://github.com/django-jlogger/django-jlogger.git
-        $ cd django-jlogger
-        $ python setup.py install
+        (({git clone git://github.com/django-jlogger/django-jlogger.git}))
+        (({$ cd django-jlogger}))
+        (({$ python setup.py install}))
 
 =======
 Install
