@@ -4,7 +4,6 @@ django-jlogger
 
 Simple logging to a database for Django
 
-======
 Setup
 ======
 
@@ -14,7 +13,6 @@ Grab the git repository from github and run setup.py:
         cd django-jlogger
         python setup.py install
 
-=======
 Install
 =======
 
@@ -31,13 +29,12 @@ Just update your settings.py and add jlogger to ``INSTALLED_APPS``::
             ...
         )
 
-=============
 Configuration
 =============
 
 If you want to use some additional settings, you can add to settings.py this settings.
 
-################################
+
 Alternative database for logging
 ################################
 
@@ -64,7 +61,7 @@ and add to JLOGGER settings:
             ...
         }
 
-################
+
 Mailing settings
 ################
 
@@ -85,7 +82,7 @@ For using mail notification add to JLOGGER settings:
             ...
         }
 
-################
+
 Handle exception
 ################
 
